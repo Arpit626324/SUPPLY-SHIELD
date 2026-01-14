@@ -1,0 +1,5 @@
+{
+  "name": "SUPPLY-SHIELD",
+  "description": "Autonomous Supplier Risk Analysis & Decision Agent for automotive manufacturing enterprises, orchestrating email extraction, Supabase operational data, and Mistral AI reasoning.",
+  "requestFramePermissions": []
+}
